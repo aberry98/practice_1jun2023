@@ -5,4 +5,7 @@ Type in something funny!
 
 In the git pane, "M" = modified
 
-I am about to "commit"
+how to track ("commit")
+Click the "staged" boxes
+commit
+then push it to the github repository
